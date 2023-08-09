@@ -117,3 +117,5 @@ p.firstName = 'asdf';
 // con la clase como tipo
 const p2 = new Person('Luke', 'Smith', 50);
 console.log(p2);
+console.log(p2.firstName);
+console.log(p2.lastName);

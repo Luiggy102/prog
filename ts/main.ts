@@ -162,3 +162,9 @@ const p2: Person = new Person('Luke', 'Smith', 50);
 console.log(p2);
 console.log(p2.firstName);
 console.log(p2.lastName);
+
+
+let str: string = '';
+str += 'agregar a string '
+str += 'más cosas'
+console.log(str);

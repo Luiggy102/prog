@@ -1,3 +1,5 @@
+const chalk = require('chalk');
+console.log(chalk.red('Hola'));
 console.log(Math.E);
 console.log(Math.PI);
 console.log(Math.cbrt(8));

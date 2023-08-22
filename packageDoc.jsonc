@@ -3,9 +3,11 @@
 
 /* prefijos de paquetes (Ej con 0.13.0)
 
-~ : solo patches -> 0.13.1 pero no 0.14.0
 ^ : pathes y lanzmientos mejores -> 0.13.1, 0.14.0 y así
+~ : solo patches -> 0.13.1 pero no 0.14.0
 * : todo tipo de actualizaciones
+= : esa version exacta
+- : rango de versiones Ej: 2.1.0 - 2.1.9
 >,>=,<,<= : para mayor o menores igual a esa version
 
 sin simbolo: solo esa version en especifico

@@ -1,19 +1,19 @@
-// guarda todo los que se usa en piedra 
-// y npm usara esas versiones exactas cuando use npm intall
+// guarda todo lo que se usa a fuego
+// y npm usará esas versiones exactas cuando use npm intall
 
 // por lo mismo necesita hacer commit en git
-// las depencias seran actualizas a las versiones exactas cuando npm update
+// las dependencias serán actualizas a las versiones exactas cuando npm update
 
 /*
 tipo cowsay depende de get-stdin optimist string-width strip-eof
-asi mimso eso paquetes dependen de otros paquetes, que se ven el 
+asi mimso esos paquetes dependen de otros paquetes, que se ven el 
 la propiedad 'requires' 
 
  ansi-regex is-fullwidth-code-point minimist wordwrap strip-eof
 
  se guardan en orden alfabetico
 
- 'version'
+ 'version' la versión
  'resolved' indica la localización del paquete
  'integrity' string para identificar el paquete
 */
